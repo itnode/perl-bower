@@ -1,0 +1,6 @@
+name = "Bower"
+# badges = ["travis"]
+authority="cpan:JEGADE"
+
+module_maker="ModuleBuildTiny"
+
